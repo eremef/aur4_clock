@@ -2,7 +2,7 @@
 
 Arduino Uno R4 Wifi RTC NTP clock
 
-![aur4_clock](https://github.com/eremef/aur4_clock/assets/34741103/37007db1-cfd8-44b4-8dd1-fa4f450997d1)
+![image](https://github.com/eremef/aur4_clock/assets/34741103/6ce42e21-43d5-41f1-a775-b55de67275b6)
 
 Created using the Arduino Uno R4 Wifi example code - RTC_NTPSync, initially created by Sebastian Romero @sebromero  
 

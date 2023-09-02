@@ -9,3 +9,4 @@ Created using the Arduino Uno R4 Wifi example code - RTC_NTPSync, initially crea
 Instructions:
 1. Change the WiFi credentials in the arduino_secrets.h file to match your WiFi network.
 2. Set the orientation using the #define ORIENTATION 0 or 1
+3. Set timezone offset hours using the #define TIMEZONE_OFFSET_HOURS according to your localization

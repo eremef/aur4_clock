@@ -1,4 +1,4 @@
-# aur4_clock
+# AUR4_clock
 
 Arduino Uno R4 Wifi RTC NTP clock
 
